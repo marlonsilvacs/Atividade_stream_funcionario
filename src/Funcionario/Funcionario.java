@@ -1,4 +1,4 @@
-package src.Model;
+package src.Funcionario;
 
 public class Funcionario {
     private String nome;

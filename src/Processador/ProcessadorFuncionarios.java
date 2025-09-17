@@ -1,8 +1,9 @@
-package src.View;
-import src.Model.Funcionario;
+package src.Processador;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import src.Funcionario.Funcionario;
 
 public class ProcessadorFuncionarios {
 
